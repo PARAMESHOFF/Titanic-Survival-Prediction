@@ -74,7 +74,7 @@ Try different models (Random Forest, SVM, etc.)
 
 Perform feature engineering to enhance predictions.
 
-Contributors
+Contributor
 
 PARAMESHWAR S
 
